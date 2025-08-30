@@ -1,7 +1,7 @@
 # 🎨 My Artistic Portfolio  
 
-Hi! I'm **[Your Name]** 👋  
-A Computer Science student and aspiring polymath who loves blending **technology, art, and philosophy**.  
+Hi! I'm Gabriel Tyrell M. Bonito 👋  
+A Computer Science student and artist who loves painting,drawing and sketching.  
 
 ---
 
@@ -16,8 +16,7 @@ A Computer Science student and aspiring polymath who loves blending **technology
 - ♟️ Playing Chess & Strategy Games  
 - 🖌️ Digital & Traditional Art  
 - 📖 Reading History & Philosophy  
-- 🏀 Basketball, 🏸 Badminton, 🏊 Swimming  
-- 💻 Building tech projects  
+- 🏀 Basketball, 🏸 Badminton  
 
 ---
 
@@ -36,10 +35,7 @@ A Computer Science student and aspiring polymath who loves blending **technology
 ---
 
 ## 📬 Contact Me  
-- 📧 Email: [your-email@example.com]  
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- 🐦 Twitter: [@yourhandle](#)  
-
+- 📧 Email: [bonitogabriel2005@gmail.com]  
+  
 ---
 
-⭐ *If you like my work, feel free to follow me on GitHub!*  
