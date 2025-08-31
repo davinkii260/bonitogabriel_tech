@@ -23,7 +23,7 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 
 ## 🖼️ My Picture  
 <p align="center">
-  <img src="your-picture.jpg" alt="Profile Picture" width="200" style="border-radius:50%;">
+ [ <img src="your-picture.jpg" alt="Profile Picture" width="200" style="border-radius:50%;">](https://uploads.onecompiler.io/43g3enutd/43vb98rt3/project1.jpg)
 </p>  
 
 *(Upload `your-picture.jpg` inside the repo for it to display)*  
