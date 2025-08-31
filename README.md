@@ -6,8 +6,15 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 
 ---
 
+## 🖼️ My Picture  
+<p align="center">
+
+![alt text](https://github.com/user-attachments/assets/20a1534f-4ece-41c2-b0e8-26154650d4dd)
+
+---
+
 ## 👤 About Me  
-- 🎓 Background: Computer Science student with passion for AI, software engineering, and design.  
+- 🎓 Background: Computer Science student with passion for Art, software engineering, and design.  
 - 🌍 Explorer of history, psychology, and philosophy.  
 - 🎯 Goal: To become a **modern polymath** who connects different fields of knowledge.  
 
@@ -17,27 +24,26 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 - ♟️ Playing Chess & Strategy Games  
 - 🖌️ Digital & Traditional Art  
 - 📖 Reading History & Philosophy  
-- 🏀 Basketball, 🏸 Badminton  
+- 🏀 Basketball, 🏸 Badminton
+- 🧸Collecting Action Figures, and Antique Stuff
 
 ---
 
-## 🖼️ My Picture  
-<p align="center">
- [ <img src="your-picture.jpg" alt="Profile Picture" width="200" style="border-radius:50%;">](https://uploads.onecompiler.io/43g3enutd/43vb98rt3/project1.jpg)
-</p>  
-
-*(Upload `your-picture.jpg` inside the repo for it to display)*  
-
+## Project Links
+- This is my Art Portfolio Projects I made
+![alt text] [https://gabortfolio.my.canva.site/gabriel-bonito]
+  
 ---
 
-## 🌈 Artistic Vibe  
-> “Art and science are two sides of the same coin — both are ways of seeing the world differently.”  
-
-![Artistic Divider](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)  
+## Fun Fact About Me  
+- I like exotic foods
+- I'm audiophile
+- I drink drink energy drink 3x a day
 
 ---
 
 ## 📬 Contact Me  
-- 📧 Email: **bonitogabriel2005@gmail.com**  
+- 📧 Email: **bonitogabriel2005@gmail.com**
+
 
 ---
