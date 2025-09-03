@@ -9,7 +9,7 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 ## 🖼️ My Picture  
 <p align="center">
 
-![alt text](https://github.com/user-attachments/assets/20a1534f-4ece-41c2-b0e8-26154650d4dd)
+<img src="" alt="image" width="200" height="200">
 
 ---
 
