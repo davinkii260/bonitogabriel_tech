@@ -7,9 +7,9 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 ---
 
 ## 🖼️ My Picture  
-<p align="center">
+<p align="left">
 
-<img src="" alt="image" width="200" height="200">
+<img src="485093912_2016209432209008_2788840537492230754_n.jpg" alt="image" width="300" height="300">
 
 ---
 
@@ -31,7 +31,7 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 
 ## Project Links
 - This is my Art Portfolio Projects I made
-![alt text] [https://gabortfolio.my.canva.site/gabriel-bonito]
+[https://gabortfolio.my.canva.site/gabriel-bonito]
   
 ---
 
@@ -42,8 +42,10 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 
 ---
 
+
 ## 📬 Contact Me  
-- 📧 Email: **bonitogabriel2005@gmail.com**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonitogabriel2005@gmail.com) - bonitogabriel2005@gmail.com
+
 
 
 ---
