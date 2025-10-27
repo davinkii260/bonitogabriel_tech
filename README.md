@@ -32,7 +32,18 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 ---
 
 ## 📚 Midterm Projects  
-[![View Project](https://img.shields.io/badge/View_Midterm_Project-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/davinkii260/bonitogabriel_tech/blob/main/Midterm%20Paired%20Task%201%20C203.pdf)
+
+<h2 align="center">📂 Midterm Projects</h2>
+
+<p align="center">
+  <a href="https://classroom.google.com/c/NzkxODY4MzY2MTAx/a/Nzk5MTEzNjY2NjY4/details" target="_blank">Midterm Lab Task #1</a><br>
+  <a href="https://drive.google.com/file/d/1i9cGb5efJNqZhHacKWC0STGfigu63hZb/view?usp=drivesdk" target="_blank">Midterm Lab Task #2</a><br>
+  <a href="https://drive.google.com/file/d/119V8KIKWSx-xosSc6oORGGyf2NYG8389/view?usp=drivesdk" target="_blank">Midterm Lab Task #3</a><br>
+  <a href="https://drive.google.com/file/d/1JqVXTZ3OlMURXohai9YjDgMWmbxChOq8/view?usp=drivesdk" target="_blank">Midterm Lab Task #4</a><br>
+  <a href="https://drive.google.com/file/d/1D6uGc3ZVcdjcK6bmCExZro2NYJk1AJNo/view?usp=drivesdk" target="_blank">Midterm Lab Task #5</a><br>
+  <a href="https://drive.google.com/file/d/103pXDrSUh1iJHAQ2dpzdc0jI8nfWFt1h/view?usp=drivesdk" target="_blank">Midterm Lab Task #6 (Part 1)</a><br>
+  <a href="https://drive.google.com/file/d/1w4dRkuFyVr8CtmxzEtqDumFu85QKOEcy/view?usp=drivesdk" target="_blank">Midterm Lab Task #6 (Part 2)</a>
+</p>
 
 ---
 
