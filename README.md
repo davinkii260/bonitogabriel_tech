@@ -17,7 +17,8 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 ## 👤 About Me  
 - 🎓 Background: Computer Science student with passion for Art, Software engineering, and Design.  
 - 🌍 Explorer of history, psychology, philosophy, and pop culture.  
-- 🎯 Goal: To become a Successful Person and CEO.  
+- 🎯 Goal: To become a Successful Person and CEO.
+- 🦸‍♂️Marvel and DC Fan
 
 ---
 
@@ -32,8 +33,6 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 ---
 
 ## 📚 Midterm Projects  
-
-<h2 align="center">📂 Midterm Projects</h2>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1DxIQCHj-_HK481JtK1WAO8MfJlBxD_PT/view?usp=sharing" target="_blank">Midterm Lab Task #1</a><br>
