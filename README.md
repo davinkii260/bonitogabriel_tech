@@ -1,22 +1,25 @@
 
 # 🎨 My Portfolio  
 
-Hi! I'm **Gabriel Tyrell M. Bonito** 👋  
+# Hello!, My Name is Gabriel Tyrell M. Bonito
 A Computer Science student and artist who loves **painting, drawing and sketching.**  
 
----
-
 ## 🖼️ My Picture  
-<p align="left">
+<p align="center">
+  <img src="485093912_2016209432209008_2788840537492230754_n.jpg" alt="image" width="300" height="300">
+</p>
 
-<img src="485093912_2016209432209008_2788840537492230754_n.jpg" alt="image" width="300" height="300">
+<p align="center">
+  
+**Gabriel Tyrell M. Bonito** aka **GAB** or **BONITS**👋  
+
 
 ---
 
 ## 👤 About Me  
-- 🎓 Background: Computer Science student with passion for Art, software engineering, and design.  
-- 🌍 Explorer of history, psychology, and philosophy.  
-- 🎯 Goal: To become a **modern polymath** who connects different fields of knowledge.  
+- 🎓 Background: Computer Science student with passion for Art, Software engineering, and Design.  
+- 🌍 Explorer of history, psychology, and philosophy and pop culture.  
+- 🎯 Goal: To become a Successful Person and CEO.  
 
 ---
 
@@ -38,7 +41,7 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 ## Fun Fact About Me  
 - I like exotic foods
 - I'm audiophile
-- I drink drink energy drink 3x a day
+- I can drink drink energy drink 3x a day
 
 ---
 
