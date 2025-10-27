@@ -32,7 +32,7 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 
 ## 📚 Midterm Projects
 
-[![View Project](https://img.shields.io/badge/View_My_Midterm_Project-PDF-red?style=for-the-badge)](Midterm_Project.pdf)
+[![View Project](https://img.shields.io/badge/View_My_Midterm_Project-PDF-red?style=for-the-badge)]([Midterm_Project.pdf](https://drive.google.com/file/d/15nxFyD26a3dhH_8dha2usz3eKnzT5sCI/view))
 
 
 ---
