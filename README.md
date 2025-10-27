@@ -38,7 +38,7 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 <p align="center">
   <a href="https://docs.google.com/document/d/1PvnXktt_e-8hVMr-diqwcze9Wj-oQnna/edit?usp=sharing&ouid=106144936901537006723&rtpof=true&sd=true" target="_blank">Midterm Lab Task #1</a><br>
   <a href="https://drive.google.com/file/d/1HRQnO1rW3eqMhjrQiDUJOCHfVeJto82z/view?usp=sharing" target="_blank">Midterm Lab Task #2</a><br>
-  <a href="[https://drive.google.com/file/d/119V8KIKWSx-xosSc6oORGGyf2NYG8389/view?usp=drivesdk](https://docs.google.com/document/d/1IAQ63WCHhNCcFFv0gl-NV0ib0r4puRsVmqvnBLVKlHU/edit?usp=sharing)" target="_blank">Midterm Lab Task #3</a><br>
+  <a href="https://drive.google.com/file/d/1SJySc4uaifVb-Fm3p_CouO4iZ5U0wxhe/view?usp=sharing"_blank">Midterm Lab Task #3</a><br>
   <a href="https://drive.google.com/file/d/1JqVXTZ3OlMURXohai9YjDgMWmbxChOq8/view?usp=drivesdk" target="_blank">Midterm Lab Task #4</a><br>
   <a href="https://drive.google.com/file/d/1D6uGc3ZVcdjcK6bmCExZro2NYJk1AJNo/view?usp=drivesdk" target="_blank">Midterm Lab Task #5</a><br>
   <a href="https://drive.google.com/file/d/103pXDrSUh1iJHAQ2dpzdc0jI8nfWFt1h/view?usp=drivesdk" target="_blank">Midterm Lab Task #6 (Part 1)</a><br>
