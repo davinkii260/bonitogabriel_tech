@@ -6,11 +6,11 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 ---
 
 ## 🖼️ My Picture  
-<p align="center">
+<p align="left">
   <img src="485093912_2016209432209008_2788840537492230754_n.jpg" alt="image" width="300" height="300">
 </p>
 
-<p align="center"><b>Gabriel Tyrell M. Bonito</b> aka <b>GAB</b> or <b>BONITS</b> 👋</p>
+<p align="left"><b>Gabriel Tyrell M. Bonito</b> aka <b>GAB</b> or <b>BONITS</b> 👋</p>
 
 ---
 
@@ -32,12 +32,12 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 
 ## 📚 Midterm Projects  
 <p align="center">
-  <a href="https://drive.google.com/file/d/1DxIQCHj-_HK481JtK1WAO8MfJlBxD_PT/view?usp=sharing" target="_blank">Midterm Lab Task #1</a><br>
-  <a href="https://drive.google.com/file/d/1rahZnjZp_kelkbGIUWSxx5EUDO6CQ3NT/view?usp=sharing" target="_blank">Midterm Lab Task #2</a><br>
-  <a href="https://drive.google.com/file/d/1SJySc4uaifVb-Fm3p_CouO4iZ5U0wxhe/view?usp=sharing" target="_blank">Midterm Lab Task #3</a><br>
-  <a href="https://drive.google.com/file/d/14u9BfnT0OWmAyLckN8n9jeAhD9xNJ9KF/view?usp=sharing" target="_blank">Midterm Lab Task #4</a><br>
-  <a href="https://drive.google.com/file/d/1T2ikvahqpVrDwR3eHUz2qhiSusvJtxtr/view?usp=sharing" target="_blank">Midterm Lab Task #5</a><br>
-  <a href="https://drive.google.com/file/d/11EaYiSJAkrAK7AY2mo1205arZKP3tKRj/view?usp=sharing" target="_blank">Midterm Lab Task #6</a>
+  <a href="https://drive.google.com/file/d/1DxIQCHj-_HK481JtK1WAO8MfJlBxD_PT/view?usp=sharing" target="_blank">1️⃣Midterm Lab Task #1</a><br>
+  <a href="https://drive.google.com/file/d/1rahZnjZp_kelkbGIUWSxx5EUDO6CQ3NT/view?usp=sharing" target="_blank">2️⃣Midterm Lab Task #2</a><br>
+  <a href="https://drive.google.com/file/d/1SJySc4uaifVb-Fm3p_CouO4iZ5U0wxhe/view?usp=sharing" target="_blank">3️⃣Midterm Lab Task #3</a><br>
+  <a href="https://drive.google.com/file/d/14u9BfnT0OWmAyLckN8n9jeAhD9xNJ9KF/view?usp=sharing" target="_blank">4️⃣Midterm Lab Task #4</a><br>
+  <a href="https://drive.google.com/file/d/1T2ikvahqpVrDwR3eHUz2qhiSusvJtxtr/view?usp=sharing" target="_blank">5️⃣Midterm Lab Task #5</a><br>
+  <a href="https://drive.google.com/file/d/11EaYiSJAkrAK7AY2mo1205arZKP3tKRj/view?usp=sharing" target="_blank">6️⃣Midterm Lab Task #6</a>
 </p>
 
 ---
