@@ -29,9 +29,9 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 
 ---
 
-## Project Links
-- This is my Art Portfolio Projects I made
-[https://gabortfolio.my.canva.site/gabriel-bonito]
+## Midterm Projects
+
+
   
 ---
 
