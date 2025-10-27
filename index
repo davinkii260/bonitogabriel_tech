@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio - Gabriel Tyrell M. Bonito</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background-color: #fafafa;
+      color: #111;
+      margin: 40px auto;
+      max-width: 900px;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #222;
+    }
+    pre {
+      background: #f0f0f0;
+      padding: 10px;
+      border-radius: 5px;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+<body>
+  <div id="content">Loading README...</div>
+
+  <script>
+    fetch('README.md')
+      .then(response => response.text())
+      .then(text => {
+        const converter = new showdown.Converter();
+        document.getElementById('content').innerHTML = converter.makeHtml(text);
+      });
+  </script>
+
+  <!-- Load Markdown converter -->
+  <script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
+</body>
+</html>
