@@ -1,4 +1,3 @@
-
 # 🎨 My Portfolio  
 
 # Hello!, My Name is Gabriel Tyrell M. Bonito
@@ -12,7 +11,6 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 <p align="center">
   
 **Gabriel Tyrell M. Bonito** aka **GAB** or **BONITS**👋  
-
 
 ---
 
@@ -28,27 +26,21 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 - 🖌️ Digital & Traditional Art  
 - 📖 Reading History & Philosophy  
 - 🏀 Basketball, 🏸 Badminton
-- 🧸Collecting Action Figures, and Antique Stuff
+- 🧸 Collecting Action Figures, and Antique Stuff
 
 ---
 
 ## Midterm Projects
 
 
-  
 ---
 
 ## Fun Fact About Me  
-- I like exotic foods
-- I'm audiophile
-- I can drink drink energy drink 3x a day
+- I like exotic foods  
+- I'm audiophile  
+- I can drink energy drink 3x a day  
 
 ---
-
 
 ## 📬 Contact Me  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonitogabriel2005@gmail.com) - bonitogabriel2005@gmail.com
-
-
-
----
