@@ -32,6 +32,7 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 
 ## 📚 Midterm Projects
 
+https://github.com/davinkii260/bonitogabriel_tech/blob/main/Midterm%20Paired%20Task%201%20C203.pdf
 
 
 ---
