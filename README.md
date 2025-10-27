@@ -36,13 +36,12 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 <h2 align="center">📂 Midterm Projects</h2>
 
 <p align="center">
-  <a href="https://docs.google.com/document/d/1PvnXktt_e-8hVMr-diqwcze9Wj-oQnna/edit?usp=sharing&ouid=106144936901537006723&rtpof=true&sd=true" target="_blank">Midterm Lab Task #1</a><br>
-  <a href="https://drive.google.com/file/d/1HRQnO1rW3eqMhjrQiDUJOCHfVeJto82z/view?usp=sharing" target="_blank">Midterm Lab Task #2</a><br>
-  <a href="https://drive.google.com/file/d/1SJySc4uaifVb-Fm3p_CouO4iZ5U0wxhe/view?usp=sharing"_blank">Midterm Lab Task #3</a><br>
-  <a href="https://drive.google.com/file/d/1JqVXTZ3OlMURXohai9YjDgMWmbxChOq8/view?usp=drivesdk" target="_blank">Midterm Lab Task #4</a><br>
-  <a href="https://drive.google.com/file/d/1D6uGc3ZVcdjcK6bmCExZro2NYJk1AJNo/view?usp=drivesdk" target="_blank">Midterm Lab Task #5</a><br>
-  <a href="https://drive.google.com/file/d/103pXDrSUh1iJHAQ2dpzdc0jI8nfWFt1h/view?usp=drivesdk" target="_blank">Midterm Lab Task #6 (Part 1)</a><br>
-  <a href="https://drive.google.com/file/d/1w4dRkuFyVr8CtmxzEtqDumFu85QKOEcy/view?usp=drivesdk" target="_blank">Midterm Lab Task #6 (Part 2)</a>
+  <a href="https://drive.google.com/file/d/1DxIQCHj-_HK481JtK1WAO8MfJlBxD_PT/view?usp=sharing" target="_blank">Midterm Lab Task #1</a><br>
+  <a href="https://drive.google.com/file/d/1rahZnjZp_kelkbGIUWSxx5EUDO6CQ3NT/view?usp=sharing" target="_blank">Midterm Lab Task #2</a><br>
+  <a href="https://drive.google.com/file/d/1SJySc4uaifVb-Fm3p_CouO4iZ5U0wxhe/view?usp=sharing" target="_blank">Midterm Lab Task #3</a><br>
+  <a href="https://drive.google.com/file/d/14u9BfnT0OWmAyLckN8n9jeAhD9xNJ9KF/view?usp=sharing" target="_blank">Midterm Lab Task #4</a><br>
+  <a href="https://drive.google.com/file/d/1T2ikvahqpVrDwR3eHUz2qhiSusvJtxtr/view?usp=sharing" target="_blank">Midterm Lab Task #5</a><br>
+  <a href="https://drive.google.com/file/d/11EaYiSJAkrAK7AY2mo1205arZKP3tKRj/view?usp=sharing" target="_blank">Midterm Lab Task #6</a>
 </p>
 
 ---
