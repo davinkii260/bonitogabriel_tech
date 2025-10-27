@@ -36,7 +36,7 @@ A Computer Science student and artist who loves **painting, drawing and sketchin
 <h2 align="center">📂 Midterm Projects</h2>
 
 <p align="center">
-  <a href="https://docs.google.com/document/d/1QbY91H7Nfht5N4EjOr5QVj5w-Hopq1fOmM0lH4A8LyY/edit?usp=sharing" target="_blank">Midterm Lab Task #1</a><br>
+  <a href="https://docs.google.com/document/d/1PvnXktt_e-8hVMr-diqwcze9Wj-oQnna/edit?usp=sharing&ouid=106144936901537006723&rtpof=true&sd=true" target="_blank">Midterm Lab Task #1</a><br>
   <a href="https://drive.google.com/file/d/1i9cGb5efJNqZhHacKWC0STGfigu63hZb/view?usp=drivesdk" target="_blank">Midterm Lab Task #2</a><br>
   <a href="https://drive.google.com/file/d/119V8KIKWSx-xosSc6oORGGyf2NYG8389/view?usp=drivesdk" target="_blank">Midterm Lab Task #3</a><br>
   <a href="https://drive.google.com/file/d/1JqVXTZ3OlMURXohai9YjDgMWmbxChOq8/view?usp=drivesdk" target="_blank">Midterm Lab Task #4</a><br>
